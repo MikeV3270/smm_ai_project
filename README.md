@@ -1,7 +1,3 @@
-# smm_ai_project
-university work
-
-
 # AI Text Analysis Model
 
 Проект: нейросеть для анализа текстового контента
